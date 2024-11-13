@@ -1,0 +1,45 @@
+{
+  "expo": {
+    "name": "CanteenApp",
+    "slug": "canteenapp",
+    "plugins": ["@react-native-google-signin/google-signin"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#f4f4f8"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "infoPlist": {
+        "NSCameraUsageDescription": "This app uses the camera to allow you to take and upload photos.",
+        "NSPhotoLibraryUsageDescription": "This app needs access to your photo library to allow you to upload photos."
+      }
+    },
+    "android": {
+      "googleServicesFile": "./google-services.json",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#f4f4f8"
+      },
+      "package": "com.georgeet15.RSETCanteenApp",
+      "permissions": [
+        "CAMERA",
+        "READ_EXTERNAL_STORAGE",
+        "WRITE_EXTERNAL_STORAGE"
+      ]
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "owner": "georgeet15",
+    "extra": {
+      "eas": {
+        "projectId": "34067c56-8e84-4262-af1d-ea29942c2bf2"
+      }
+    }
+  }
+}

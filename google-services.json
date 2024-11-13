@@ -1,0 +1,166 @@
+{
+  "project_info": {
+    "project_number": "434414823719",
+    "project_id": "canteenapp-26fd6",
+    "storage_bucket": "canteenapp-26fd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434414823719:android:ecc130ba663b1a3c502102",
+        "android_client_info": {
+          "package_name": "com.georgeet15.CanteenAdminApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434414823719-ng5o0infp0mnkhot1qf3hfmos9fbjepf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.georgeet15.CanteenAdminApp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "434414823719-pikhm128i76db88qnbke6jstuet4j3fd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.georgeet15.CanteenAdminApp",
+            "certificate_hash": "3bd6f0e8ca12397d35cf1943aa2f794a826674f7"
+          }
+        },
+        {
+          "client_id": "434414823719-g280rvg2e00n231un11g49p373gbhvl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHVM1q_MadYJXJRpsn94956i8UbpzQYzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434414823719-g280rvg2e00n231un11g49p373gbhvl4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "434414823719-rfmpo38ju370sgagtk0f7oe19sfrujgs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.georgeet15.CanteenApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434414823719:android:44bee04cb5af01c5502102",
+        "android_client_info": {
+          "package_name": "com.georgeet15.CanteenApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434414823719-kjfl4gn7kck8ia5jthopgbj3t1f59gpe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.georgeet15.CanteenApp",
+            "certificate_hash": "3bd6f0e8ca12397d35cf1943aa2f794a826674f7"
+          }
+        },
+        {
+          "client_id": "434414823719-vuh41f5q7e0fnpb65f21hh8d3ro3l1dn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.georgeet15.CanteenApp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "434414823719-g280rvg2e00n231un11g49p373gbhvl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHVM1q_MadYJXJRpsn94956i8UbpzQYzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434414823719-g280rvg2e00n231un11g49p373gbhvl4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "434414823719-rfmpo38ju370sgagtk0f7oe19sfrujgs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.georgeet15.CanteenApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434414823719:android:d6230826fb85eb27502102",
+        "android_client_info": {
+          "package_name": "com.georgeet15.RSETCanteenApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434414823719-cail2914gmgvt94svpamjf2dvm5sdrgn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.georgeet15.RSETCanteenApp",
+            "certificate_hash": "3bd6f0e8ca12397d35cf1943aa2f794a826674f7"
+          }
+        },
+        {
+          "client_id": "434414823719-vkte1tca1ouuqjbck840bescqarvvmh7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.georgeet15.RSETCanteenApp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "434414823719-g280rvg2e00n231un11g49p373gbhvl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHVM1q_MadYJXJRpsn94956i8UbpzQYzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434414823719-g280rvg2e00n231un11g49p373gbhvl4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "434414823719-rfmpo38ju370sgagtk0f7oe19sfrujgs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.georgeet15.CanteenApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
